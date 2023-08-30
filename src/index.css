@@ -1,0 +1,43 @@
+*{
+  font-family: cursive;
+  text-align: center;
+}
+
+/* .header{
+  background-color: violet;
+} */
+span{
+  margin: 4px;
+ 
+}
+.flex{
+  margin: 40px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+}
+.card{
+  margin: 45px;
+  box-shadow: 10px 10px 10px 10px gray;
+  
+}
+.userinput{
+  margin-top: 50px;
+}
+input{
+  border: 3px solid black;
+  height: 40px;
+}
+h4{
+  display: inline;
+  
+  text-decoration: underline;
+}
+#root{
+  background-color: bisque;
+}
+
+strong{
+  font-size: 20px;
+}
